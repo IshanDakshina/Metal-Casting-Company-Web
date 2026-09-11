@@ -12,7 +12,7 @@ interface ContactFormValues {
 }
 
 const PRODUCT_OPTIONS = [
-  'GY Plates',
+  'Gym Weight Plates',
   'Manhole Covers',
   'Mechanical Machine Parts',
   'Metal Pipes',
@@ -58,22 +58,22 @@ export default function Contact() {
                 <div>
                   <dt className="font-semibold text-ink dark:text-white">Address</dt>
                   <dd className="mt-1 text-ink-muted leading-relaxed">
-                    No. 45, Industrial Road, Kelaniya, Sri Lanka
+                    621/3, Thunadahena, Korathota, Kaduwela
                   </dd>
                 </div>
                 <div>
                   <dt className="font-semibold text-ink dark:text-white">Phone</dt>
                   <dd className="mt-1">
-                    <a href="tel:+94112345678" className="text-brand dark:text-brand-light hover:underline">
-                      +94 11 234 5678
+                    <a href="tel:+94750295043" className="text-brand dark:text-brand-light hover:underline">
+                      +94 75 029 5043
                     </a>
                   </dd>
                 </div>
                 <div>
                   <dt className="font-semibold text-ink dark:text-white">Email</dt>
                   <dd className="mt-1">
-                    <a href="mailto:info@shashikimetal.lk" className="text-brand dark:text-brand-light hover:underline">
-                      info@shashikimetal.lk
+                    <a href="mailto:metal.shashiki@gmail.com" className="text-brand dark:text-brand-light hover:underline">
+                      metal.shashiki@gmail.com
                     </a>
                   </dd>
                 </div>
@@ -82,7 +82,6 @@ export default function Contact() {
                   <dd className="mt-1 text-ink-muted leading-relaxed">
                     Monday &ndash; Saturday, 8:00 AM &ndash; 5:30 PM
                     <br />
-                    Closed on Sundays &amp; public holidays
                   </dd>
                 </div>
               </dl>
@@ -91,7 +90,7 @@ export default function Contact() {
             <div className="rounded-xl overflow-hidden border border-ink-muted/12 dark:border-white/10 aspect-[4/3]">
               <iframe
                 title="Map showing the location of Shashiki Metal Industries in Kelaniya, Sri Lanka"
-                src="https://www.google.com/maps?q=Kelaniya,Sri%20Lanka&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5415.278768288712!2d79.9860307!3d6.903802200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2576e3aaca37d%3A0x5027c873add56ba2!2sShashiki%20Metal%20Industries!5e1!3m2!1sen!2slk!4v1789157161048!5m2!1sen!2slk"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
