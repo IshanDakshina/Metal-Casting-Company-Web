@@ -90,24 +90,6 @@ export default function Services() {
           </Reveal>
         </div>
       </section>
-
-      <section className="section bg-surface dark:bg-navy">
-        <div className="section-inner rounded-2xl bg-brand text-white px-6 sm:px-12 py-12 sm:py-14 text-center">
-          <Reveal>
-            <h2 className="text-2xl sm:text-3xl font-bold">Ready to Start Your Order?</h2>
-            <p className="mt-3 text-white/85 max-w-xl mx-auto leading-relaxed">
-              Get in touch with your requirements and we'll walk you through the quote and
-              production process.
-            </p>
-            <Link
-              to="/contact"
-              className="mt-7 inline-flex rounded-lg bg-white px-7 py-3.5 text-sm font-semibold text-brand hover:bg-white/90 transition-colors"
-            >
-              Get a Quote
-            </Link>
-          </Reveal>
-        </div>
-      </section>
     </div>
   )
 }

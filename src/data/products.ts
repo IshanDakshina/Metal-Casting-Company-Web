@@ -65,7 +65,7 @@ export const products: Product[] = [
       'Agricultural and general utility applications',
     ],
     image:
-      '/images/metal_pipes.jpg',
+      '/images/metal_pipes.png',
   },
 
   {
