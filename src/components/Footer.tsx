@@ -42,8 +42,8 @@ export default function Footer() {
             <h3 className="text-sm font-semibold text-ink dark:text-white mb-4">Contact</h3>
             <ul className="space-y-2.5 text-sm text-ink-muted">
               <li>621/3, Thunadahena, Korathota, Kaduwela</li>
-              <li><a href="tel:+94112345678" className="hover:text-brand dark:hover:text-brand-light">+94 75 029 5043</a></li>
-              <li><a href="mailto:info@shashikimetal.lk" className="hover:text-brand dark:hover:text-brand-light">metal.shashiki@gmail.com</a></li>
+              <li><a href="tel:+94750295043" className="hover:text-brand dark:hover:text-brand-light">+94 75 029 5043</a></li>
+              <li><a href="mailto:metal.shashiki@gmail.com" className="hover:text-brand dark:hover:text-brand-light">metal.shashiki@gmail.com</a></li>
               <li>Mon - Sat, 8:00 AM - 5:30 PM</li>
             </ul>
           </div>
