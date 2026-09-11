@@ -23,14 +23,14 @@ export default function Footer() {
               <li><Link to="/about" className="hover:text-brand dark:hover:text-brand-light">About Us</Link></li>
               <li><Link to="/products" className="hover:text-brand dark:hover:text-brand-light">Products</Link></li>
               <li><Link to="/services" className="hover:text-brand dark:hover:text-brand-light">Services</Link></li>
-              <li><Link to="/gallery" className="hover:text-brand dark:hover:text-brand-light">Gallery</Link></li>
+              {/* <li><Link to="/gallery" className="hover:text-brand dark:hover:text-brand-light">Gallery</Link></li> */}
             </ul>
           </div>
 
           <div>
             <h3 className="text-sm font-semibold text-ink dark:text-white mb-4">What We Make</h3>
             <ul className="space-y-2.5 text-sm text-ink-muted">
-              <li>GY Plates</li>
+              <li>Gym Weight Plates</li>
               <li>Manhole Covers</li>
               <li>Mechanical Machine Parts</li>
               <li>Metal Pipes</li>
@@ -41,10 +41,10 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-ink dark:text-white mb-4">Contact</h3>
             <ul className="space-y-2.5 text-sm text-ink-muted">
-              <li>No. 45, Industrial Road, Kelaniya, Sri Lanka</li>
-              <li><a href="tel:+94112345678" className="hover:text-brand dark:hover:text-brand-light">+94 11 234 5678</a></li>
-              <li><a href="mailto:info@shashikimetal.lk" className="hover:text-brand dark:hover:text-brand-light">info@shashikimetal.lk</a></li>
-              <li>Mon – Sat, 8:00 AM – 5:30 PM</li>
+              <li>621/3, Thunadahena, Korathota, Kaduwela</li>
+              <li><a href="tel:+94112345678" className="hover:text-brand dark:hover:text-brand-light">+94 75 029 5043</a></li>
+              <li><a href="mailto:info@shashikimetal.lk" className="hover:text-brand dark:hover:text-brand-light">metal.shashiki@gmail.com</a></li>
+              <li>Mon - Sat, 8:00 AM - 5:30 PM</li>
             </ul>
           </div>
         </div>

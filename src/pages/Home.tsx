@@ -184,7 +184,7 @@ export default function Home() {
         <div className="section-inner grid gap-10 lg:grid-cols-2 items-center">
           <Reveal>
             <img
-              src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&w=1200&auto=format&fit=crop"
+              src="/images/home_about_image.jpg"
               alt="Placeholder photo of the Shashiki Metal Industries factory floor"
               className="w-full rounded-xl object-cover aspect-[4/3] shadow-card"
             />
