@@ -45,7 +45,7 @@ export default function About() {
                 </p>
 
                 <p className="leading-7 text-ink-muted">
-                  Our product range includes GY plates, manhole covers, mechanical machine
+                  Our product range includes Gym Weight Plates, manhole covers, mechanical machine
                   parts, metal pipes and sand casting models. Alongside these standard
                   products, we also work on parts produced to customer drawings, dimensions
                   and physical samples.
@@ -143,7 +143,7 @@ export default function About() {
             <Reveal>
               <div className="relative">
                 <img
-                  src="https://images.unsplash.com/photo-1581092160607-ee22731c9c8c?q=80&w=1200&auto=format&fit=crop"
+                  src="/images/metal_workshop.png"
                   alt="Shashiki Metal Industries workshop and manufacturing facility"
                   className="aspect-[4/3] w-full rounded-2xl object-cover shadow-card"
                 />
